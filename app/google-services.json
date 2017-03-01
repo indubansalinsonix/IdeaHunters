@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "881490249543",
+    "firebase_url": "https://idea-hunters-53771.firebaseio.com",
+    "project_id": "idea-hunters-53771",
+    "storage_bucket": "idea-hunters-53771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881490249543:android:efba0218c6d11841",
+        "android_client_info": {
+          "package_name": "com.ideahunters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881490249543-kvo707j9mu3pssacgkc6nign49rp93bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1IaPiwAeHBlnHh9xsYLodWMGLgtX-A74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

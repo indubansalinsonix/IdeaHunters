@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5e17</color>
+    <color name="colorSecondary">#ff5e17</color>
+    <color name="colorPrimaryDark">#ff5e17</color>
+    <color name="colorAccent">#ff5e17</color>
+    <color name="colorWhite">@android:color/white</color>
+    <color name="colorBlack">@android:color/black</color>
+    <color name="list_background">#FFD9C6C6</color>
+    <color name="background_light_gray">#d7d7d7</color>
+    <color name="nav_header_background">#001E60</color>
+    <color name="nav_background">#ff5e17</color>
+        <color name="hint_color">#939393</color>
+    <color name="ripple">#e47882</color>
+    <color name="accent">#BE1E2D</color>
+    <color name="accent_pressed">#C2185B</color>
+    <!--#E8BB00-->
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#BE1E2D</color>
+    <color name="blue_btn_bg_pressed_color">#BE1E2D</color>
+    <color name="red_btn_bg_color">#BE1E2D</color>
+    <color name="red_btn_bg_pressed_color">#BE1E2D</color>
+    <color name="error_stroke_color">#BE1E2D</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#BE1E2D</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+    <color name="colorTint">#88000000</color>
+    <color name="colorYellow">#E8BB00</color>
+
+
+</resources>

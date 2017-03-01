@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="?attr/actionBarSize"
+    android:layout_height="?attr/actionBarSize"
+    android:paddingLeft="@dimen/inner_img_s"
+    android:paddingRight="@dimen/inner_img_s">
+
+    <ImageView
+        android:id="@+id/cart"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:padding="11dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/ic_notifications_none_black_24dp" />
+
+    <TextView
+        android:id="@+id/notification_count"
+        style="@style/roboto_medium_textview"
+        android:layout_width="@dimen/inner_img_xxl"
+        android:layout_height="@dimen/inner_img_xxl"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/circle_badge"
+        android:gravity="center_vertical|center_horizontal"
+        android:maxLength="2"
+        android:visibility="gone"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/text_size_button_xxxs" />
+
+</RelativeLayout>
